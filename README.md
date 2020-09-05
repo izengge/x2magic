@@ -1,1 +1,1 @@
-# x2magic
+# x2magic, a magic machine.
